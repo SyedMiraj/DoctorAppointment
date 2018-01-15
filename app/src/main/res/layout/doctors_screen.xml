@@ -43,13 +43,13 @@
         android:orientation="vertical"
         android:layout_marginTop="20dp">
 
-        <Spinner
-            android:layout_width="328dp"
-            android:layout_height="wrap_content"
-            android:id="@+id/select_city"
-            android:layout_gravity="center_horizontal"
-            android:textAlignment="center"
-            />
+        <!--<Spinner-->
+            <!--android:layout_width="328dp"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:id="@+id/select_city"-->
+            <!--android:layout_gravity="center_horizontal"-->
+            <!--android:textAlignment="center"-->
+            <!--/>-->
 
     </LinearLayout>
 
