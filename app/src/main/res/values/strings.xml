@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Constraint</string>
+    <string name="spl_text">e-চিকিৎসা সেবা</string>
+    <string name="spl_text1">e-ডক্টর ডাকো</string>
+
+    <string-array name="select_city">
+        <item>Dhaka</item>
+        <item>Rajshahi</item>
+        <item>Rongpur</item>
+        <item>Khulna</item>
+        <item>Borishal</item>
+        <item>Kumillah</item>
+        <item>Mymenshing</item>
+        <item>Bogra</item>
+    </string-array>
+</resources>
+
